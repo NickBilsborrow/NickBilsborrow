@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NickBilsborrow
-- 👀 I’m interested in Coding Photoghraphy
+- 👀 I’m interested in Coding, Photoghraphy and mathematics.
 - 🌱 I’m currently learning html, css and javescript
 - 📫 How to reach me ...nickbilsborrow15@gmail.com
 
